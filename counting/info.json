@@ -1,0 +1,8 @@
+{
+    "author" : ["chasemduffin"],
+    "install_msg" : "Thank you for installing my cog!",
+    "name" : "Counting",
+    "short" : "Counting channel",
+    "description" : "Make a customizable counting channel",
+    "tags" : ["counting", "count"]
+}
